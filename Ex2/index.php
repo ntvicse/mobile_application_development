@@ -2,9 +2,9 @@
 <?php
  echo'
           <p>Vị trí 1</p>
-            <input type="text" id="lat1"><input type="text" id="lng1">
+            <input type="text" id="lat1" placeholder="lat1"><input type="text" id="lng1" placeholder="lng1">
             <p>Vị trí 2</p>
-            <input type="text" id="lat2"><input type="text" id="lng2">
+            <input type="text" id="lat2" placeholder="lat2"><input type="text" id="lng2" placeholder="lng2">
             <button id="call" onclick="call()">Tính</button><br>
            	Khoảng cách là: <p id="kq"></p>
           ';
