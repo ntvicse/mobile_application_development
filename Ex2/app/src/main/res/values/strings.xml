@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Đổi tiền</string>
+    <string name="edit_message">Nhập số tiền</string>
+    <string name="text_name">Chọn loại tiền</string>
+</resources>
